@@ -105,7 +105,7 @@ fintech-sms-distillation-qwen3b/
 ## Model Weights (v3 LoRA Adapter)
 
 Download `sms_lora_adapter_v3` from:
-* **GitHub Releases / Hugging Face Hub:** `<ADD_YOUR_RELEASE_OR_HF_LINK_HERE>`
+* **GitHub Releases / Hugging Face Hub:** `https://github.com/PradhyumnaAI/fintech-sms-distillation-qwen3b/releases/tag/v3.0`
 
 ---
 
