@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Secrets & Environment
+.env
+*.key
+
+# Model weights, checkpoints & large archives (host on Hugging Face Hub or GitHub Releases)
+sms_lora_adapter*/
+qwen_sms_lora*/
+*.zip
+*.gguf
+*.safetensors
+*.bin
+
+# Jupyter
+.ipynb_checkpoints/

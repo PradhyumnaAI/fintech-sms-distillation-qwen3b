@@ -1,0 +1,9 @@
+torch>=2.1.0
+unsloth
+transformers
+trl
+peft
+datasets
+bitsandbytes
+google-genai
+huggingface_hub
